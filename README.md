@@ -1,6 +1,6 @@
 # npmdoc-gulp-file
 
-#### api documentation for  [gulp-file (v0.3.0)](https://github.com/alexmingoia/gulp-file)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-file.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-file.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-file)
+#### basic api documentation for  [gulp-file (v0.3.0)](https://github.com/alexmingoia/gulp-file)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-file.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-file.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-file)
 
 #### Create vinyl files from a string or buffer and insert into the Gulp pipeline.
 
@@ -68,7 +68,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha test --recursive --reporter spec"
     },
-    "version": "0.3.0"
+    "version": "0.3.0",
+    "bin": {}
 }
 ```
 
